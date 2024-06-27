@@ -4,8 +4,8 @@ require('options')
 -- key map
 require('keymap')
 
--- plugins
--- require('plugins')
+-- lazy.nvim
+require('config.lazy')
 
 -- others
 -- require('setup.treesitter')
