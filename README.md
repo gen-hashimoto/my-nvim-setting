@@ -1,5 +1,7 @@
 # my-nvim-setting
+
 ## reference URL
+
 https://qiita.com/4roro4/items/4c535300ccf210bcbcf4
 
 https://qiita.com/doshiyo/items/9f6c2f8fb6f1a06393f3
@@ -10,4 +12,4 @@ https://minerva.mamansoft.net/Notes/%F0%9F%93%9C2024-01-27+Neovim%E3%81%AE%E8%A8
 
 https://riq0h.jp/2023/12/03/103850/
 
-
+https://qiita.com/tnktnk/items/065a584af265e9a3a8e7

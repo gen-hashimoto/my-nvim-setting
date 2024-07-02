@@ -1,6 +1,8 @@
 {
-  "lazy.nvim": { "branch": "main", "commit": "68cee30cdb1f7a29d10b44b00506aafa092b6cee" },
-  "mini.extra": { "branch": "main", "commit": "2a3dc0293fbbe5a27d54957ed149cbdf4f2ddbbf" },
-  "mini.nvim": { "branch": "main", "commit": "19e1584124cda35388d4fdb911eab7124014e541" },
-  "vim-surround": { "branch": "master", "commit": "3d188ed2113431cf8dac77be61b842acb64433d9" }
+  "lazy.nvim": { "branch": "main", "commit": "d0921f5b9b3d2c5e09618da55a018228edcc4d16" },
+  "nvim-tree.lua": { "branch": "master", "commit": "8b2c5c678be4b49dff6a2df794877000113fd77b" },
+  "nvim-web-devicons": { "branch": "master", "commit": "c0cfc1738361b5da1cd0a962dd6f774cc444f856" },
+  "vim-surround": { "branch": "master", "commit": "3d188ed2113431cf8dac77be61b842acb64433d9" },
+  "vim-textobj-entire": { "branch": "master", "commit": "64a856c9dff3425ed8a863b9ec0a21dbaee6fb3a" },
+  "vim-textobj-user": { "branch": "master", "commit": "41a675ddbeefd6a93664a4dc52f302fe3086a933" }
 }
