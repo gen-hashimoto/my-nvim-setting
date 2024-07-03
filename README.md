@@ -13,3 +13,8 @@ https://minerva.mamansoft.net/Notes/%F0%9F%93%9C2024-01-27+Neovim%E3%81%AE%E8%A8
 https://riq0h.jp/2023/12/03/103850/
 
 https://qiita.com/tnktnk/items/065a584af265e9a3a8e7
+
+## Neovim and Lua reference
+
+NeovimのためのLua入門 Lua基礎編[https://zenn.dev/slin/articles/2020-10-19-neovim-lua1]
+NeovimのためのLua入門 init.lua編[https://zenn.dev/slin/articles/2020-11-03-neovim-lua2]
