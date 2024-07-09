@@ -8,7 +8,7 @@ opt.clipboard = "unnamedplus"
 
 -- line number
 opt.number = true
-opt.relativenumber = true
+-- opt.relativenumber = true
 
 -- tab and indent
 opt.tabstop = 4
