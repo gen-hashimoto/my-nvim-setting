@@ -2,11 +2,11 @@
 require('options')
 
 -- key map
-require('keymap')
+require('keymaps')
 
 -- lazy.nvim
 require('config.lazy')
 
--- others
--- require('setup.treesitter')
--- require('setup.lspconfig')
+-- ***** others *****
+-- colorscheme
+vim.cmd[[colorscheme tokyonight-night]] 
