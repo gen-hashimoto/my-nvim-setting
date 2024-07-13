@@ -6,9 +6,14 @@ vim.api.nvim_exec('language en_US.UTF-8', true)
 -- clipboard
 opt.clipboard = "unnamedplus"
 
--- line number
+-- display
 opt.number = true
+opt.wrap = true
+opt.showmatch = true -- 対応する括弧をハイライト表示
 -- opt.relativenumber = true
+
+-- interface
+vim.opt.signcolumn = "yes" -- サインカラムを表示
 
 -- tab and indent
 opt.tabstop = 4
