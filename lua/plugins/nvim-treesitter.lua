@@ -27,6 +27,9 @@ return {
         "vim",
         "vue",
         "yaml",
+        "vim",
+        "vimdoc",
+        "latex",
       },
       highlight = {
         enable = true,
