@@ -9,11 +9,10 @@ opt.clipboard = "unnamedplus"
 -- display
 opt.number = true
 opt.wrap = true
-opt.showmatch = true -- 対応する括弧をハイライト表示
 -- opt.relativenumber = true
 
 -- interface
-vim.opt.signcolumn = "yes" -- サインカラムを表示
+vim.opt.signcolumn = "yes"
 
 -- tab and indent
 opt.tabstop = 4
