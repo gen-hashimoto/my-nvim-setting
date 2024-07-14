@@ -8,8 +8,9 @@ opt.clipboard = "unnamedplus"
 
 -- display
 opt.number = true
-opt.wrap = false
 -- opt.relativenumber = true
+opt.cursorline = true
+opt.wrap = false
 
 -- interface
 vim.opt.signcolumn = "yes"
