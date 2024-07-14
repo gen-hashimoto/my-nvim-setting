@@ -8,7 +8,7 @@ opt.clipboard = "unnamedplus"
 
 -- display
 opt.number = true
-opt.wrap = true
+opt.wrap = false
 -- opt.relativenumber = true
 
 -- interface
