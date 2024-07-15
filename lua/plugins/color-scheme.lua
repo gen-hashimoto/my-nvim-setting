@@ -5,7 +5,7 @@ return {
     priority = 1000,
     opts = {},
 
-    -- add gruvbox
+    -- gruvbox
     "ellisonleao/gruvbox.nvim", 
     priority = 1000,
     config = true,

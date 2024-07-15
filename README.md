@@ -18,3 +18,6 @@ https://qiita.com/tnktnk/items/065a584af265e9a3a8e7
 
 NeovimのためのLua入門 Lua基礎編[https://zenn.dev/slin/articles/2020-10-19-neovim-lua1]
 NeovimのためのLua入門 init.lua編[https://zenn.dev/slin/articles/2020-11-03-neovim-lua2]
+
+## LSP + Builtin
+[Neovim]Coc.nvim+init.vimからBuiltin LSP+init.luaに移行しました💪
