@@ -17,7 +17,16 @@ https://qiita.com/tnktnk/items/065a584af265e9a3a8e7
 ## Neovim and Lua reference
 
 NeovimのためのLua入門 Lua基礎編[https://zenn.dev/slin/articles/2020-10-19-neovim-lua1]
-NeovimのためのLua入門 init.lua編[https://zenn.dev/slin/articles/2020-11-03-neovim-lua2]
+NeovimのためのLua入門 init.lua編[https://zenn.dev/slin/articles/2020-11-03-neovim-lua2]:w
 
 ## LSP + Builtin
-[Neovim]Coc.nvim+init.vimからBuiltin LSP+init.luaに移行しました💪
+Coc.nvim+init.vimからBuiltin LSP+init.luaに移行しました💪
+https://zenn.dev/fukakusa_kadoma/articles/99e8f3ab855a56
+
+Neovim+LSPをなるべく簡単な設定で構築する
+https://zenn.dev/botamotch/articles/21073d78bc68bf
+
+Neovim+LSPをなるべく簡単な設定で構築する ~ Lazy.nvim編 ~
+https://wagomu.me/blog/2023-05-17-vim-ekiden/
+
+
