@@ -29,4 +29,5 @@ https://zenn.dev/botamotch/articles/21073d78bc68bf
 Neovim+LSPをなるべく簡単な設定で構築する ~ Lazy.nvim編 ~
 https://wagomu.me/blog/2023-05-17-vim-ekiden/
 
-
+MacのUnityでLSPが適切に働くようにNeovimをセットアップする
+https://blog.shinonome.io/unity-neovim/
