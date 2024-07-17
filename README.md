@@ -29,5 +29,9 @@ https://zenn.dev/botamotch/articles/21073d78bc68bf
 Neovim+LSPをなるべく簡単な設定で構築する ~ Lazy.nvim編 ~
 https://wagomu.me/blog/2023-05-17-vim-ekiden/
 
-MacのUnityでLSPが適切に働くようにNeovimをセットアップする
-https://blog.shinonome.io/unity-neovim/
+## how to use lazy.nvim
+lazy.nvimのインストール方法とその使い方
+https://zenn.dev/siteyo/articles/980b6205e93914
+
+Neovim on Fedora
+https://fedoramagazine.org/configuring-neovim-on-fedora-as-an-ide-and-using-lazyvim/
