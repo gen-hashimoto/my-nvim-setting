@@ -9,4 +9,4 @@ require('config.lazy')
 
 -- ***** others *****
 -- colorscheme
-vim.cmd[[colorscheme gruvbox]] 
+vim.cmd [[colorscheme gruvbox]]

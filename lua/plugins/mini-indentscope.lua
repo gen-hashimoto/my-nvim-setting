@@ -1,4 +1,4 @@
-return   {
+return {
     'echasnovski/mini.indentscope',
     version = '*',
     event = { "BufReadPre", "BufNewFile" },
@@ -9,8 +9,8 @@ return   {
                 -- '│', '|', '¦', '┆', '┊', ''
                 symbol = '│',
                 draw = {
-                  delay = 0,
-                  animation = require("mini.indentscope").gen_animation.none(),
+                    delay = 0,
+                    animation = require("mini.indentscope").gen_animation.none(),
                 },
             }
         )

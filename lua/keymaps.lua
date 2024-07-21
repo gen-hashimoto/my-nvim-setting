@@ -15,5 +15,5 @@ map("n", "<leader>fb", ":Telescope buffers<CR>", opts)
 map("n", "<leader>fh", ":Telescope help_tags<CR>", opts)
 
 -- moving buffer
-map("n","<leader>n", ":bnext<Return>", opts)
+map("n", "<leader>n", ":bnext<Return>", opts)
 map("n", "<leader>p", ":bprevious<Return>", opts)

@@ -16,30 +16,30 @@ https://qiita.com/tnktnk/items/065a584af265e9a3a8e7
 
 ## Neovim and Lua reference
 
-NeovimのためのLua入門 Lua基礎編[https://zenn.dev/slin/articles/2020-10-19-neovim-lua1]
-NeovimのためのLua入門 init.lua編[https://zenn.dev/slin/articles/2020-11-03-neovim-lua2]:w
+Neovim のための Lua 入門 Lua 基礎編[https://zenn.dev/slin/articles/2020-10-19-neovim-lua1]
+Neovim のための Lua 入門 init.lua 編[https://zenn.dev/slin/articles/2020-11-03-neovim-lua2]:w
 
 ## LSP + Builtin
-Coc.nvim+init.vimからBuiltin LSP+init.luaに移行しました💪
+
+Coc.nvim+init.vim から Builtin LSP+init.lua に移行しました 💪
 https://zenn.dev/fukakusa_kadoma/articles/99e8f3ab855a56
 
-Neovim+LSPをなるべく簡単な設定で構築する
+Neovim+LSP をなるべく簡単な設定で構築する
 https://zenn.dev/botamotch/articles/21073d78bc68bf
 
-Neovim+LSPをなるべく簡単な設定で構築する ~ Lazy.nvim編 ~
+Neovim+LSP をなるべく簡単な設定で構築する ~ Lazy.nvim 編 ~
 https://wagomu.me/blog/2023-05-17-vim-ekiden/
 
 ## how to use lazy.nvim
-lazy.nvimのインストール方法とその使い方
+
+lazy.nvim のインストール方法とその使い方
 https://zenn.dev/siteyo/articles/980b6205e93914
 
 Neovim on Fedora
 https://fedoramagazine.org/configuring-neovim-on-fedora-as-an-ide-and-using-lazyvim/
 
 https://zenn.dev/botamotch/articles/21073d78bc68bf
- Neovim+LSPをなるべく簡単な設定で構築する ~ Lazy.nvim編 ~
- https://wagomu.me/blog/2023-05-17-vim-ekiden/
- 
--MacのUnityでLSPが適切に働くようにNeovimをセットアップする
--https://blog.shinonome.io/unity-neovim/
+Neovim+LSP をなるべく簡単な設定で構築する ~ Lazy.nvim 編 ~
+https://wagomu.me/blog/2023-05-17-vim-ekiden/
 
+-Mac の Unity で LSP が適切に働くように Neovim をセットアップする -https://blog.shinonome.io/unity-neovim/
