@@ -6,7 +6,3 @@ require('keymaps')
 
 -- lazy.nvim
 require('config.lazy')
-
--- ***** others *****
--- colorscheme
-vim.cmd [[colorscheme gruvbox]]
