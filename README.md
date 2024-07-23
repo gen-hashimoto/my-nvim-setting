@@ -49,3 +49,9 @@ https://note.com/yakiimo/n/nbdc5d4700572
 
 ## Github情報
 https://github.com/nazo6/zenn/blob/main/articles/c2f16b07798bab.md
+
+## 【Mac】NeovimでPythonとLuaのLSP環境を構築する方法
+https://namileriblog.com/mac/neovim_lsp/
+
+## Neovimの設定例
+https://coralpink.github.io/commentary/index.html
