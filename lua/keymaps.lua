@@ -17,3 +17,11 @@ map("n", "<leader>fh", ":Telescope help_tags<CR>", opts)
 -- moving buffer
 map("n", "<leader>n", ":bnext<Return>", opts)
 map("n", "<leader>p", ":bprevious<Return>", opts)
+
+-- format
+vim.keymap.set('n', '<localleader>ff', function()
+  vim.lsp.buf.format {
+  timeout_ms = 200,
+    async = true,
+  }
+end)

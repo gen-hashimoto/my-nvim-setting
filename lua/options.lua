@@ -11,6 +11,8 @@ opt.number = true
 -- opt.relativenumber = true
 opt.cursorline = true
 opt.wrap = false
+vim.api.nvim_set_option('termguicolors', true)
+vim.api.nvim_set_option('scrolloff', 4)
 
 -- interface
 vim.opt.signcolumn = "yes"
@@ -24,3 +26,4 @@ opt.expandtab = true
 -- search setting
 opt.ignorecase = true
 opt.smartcase = true
+vim.api.nvim_set_option('inccommand', 'split')
