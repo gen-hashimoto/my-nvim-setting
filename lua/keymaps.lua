@@ -6,7 +6,7 @@ vim.g.mapleader = " "
 vim.g.maplocalleader = " "
 
 -- nvim-tree
-map("n", "<leader>e", ":NvimTreeToggle<CR>", opts)
+map("n", "<leader>b", ":NvimTreeToggle<CR>", opts)
 
 -- telescope
 map("n", "<leader>ff", ":Telescope find_files<CR>", opts)
